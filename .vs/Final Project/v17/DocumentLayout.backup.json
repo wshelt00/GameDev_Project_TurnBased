@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|c:\\users\\wshel\\final project\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|C:\\Users\\wshel\\Final Project\\assets\\scripts\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|C:\\Users\\wshel\\Final Project\\assets\\scripts\\npcinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npcinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NPCInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\Scripts\\NPCInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCInteraction.cs",
+              "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\Scripts\\NPCInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:46:54.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurnManager.cs",
+              "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\Scripts\\TurnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TurnManager.cs",
+              "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\Scripts\\TurnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TurnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:17:07.707Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +56,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowDMAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAA8wF8AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T03:18:44.018Z",
               "EditorCaption": ""
