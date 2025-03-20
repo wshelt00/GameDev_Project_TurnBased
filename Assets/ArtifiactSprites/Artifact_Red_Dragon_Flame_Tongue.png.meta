@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Artifact_Red_Dragon_Flame_Tongue_0: 6628066137796554298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

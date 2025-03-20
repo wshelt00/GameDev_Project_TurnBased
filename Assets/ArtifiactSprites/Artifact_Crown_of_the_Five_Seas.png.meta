@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Artifact_Crown_of_the_Five_Seas_0: -3587918976493423713
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
