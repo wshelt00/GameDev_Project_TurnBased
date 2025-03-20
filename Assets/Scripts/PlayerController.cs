@@ -59,30 +59,25 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
 
-        controls.Main.Movement.performed += ctx => Move(ctx.ReadValue<Vector2>()); //Invoke movement when wasd is tap
+        controls.Main.Movement.performed += ctx => Move(ctx.ReadValue<Vector2>()); //Invoke movement when wasd keys are tap
 
     }
 
-    void Update()
-    {
-        
-    }
-
-    public bool GetHoldMove()
+    public bool GetHoldMove() //get method for holdMove
     {
         return holdMove;
     }
-    private void HoldMoving(InputAction.CallbackContext context) 
+    private void HoldMoving(InputAction.CallbackContext context) //If holding down wasd keys, holdMove is true
     {
         holdMove = true;
     }
 
-    private void NotHoldMoving(InputAction.CallbackContext context) 
+    private void NotHoldMoving(InputAction.CallbackContext context) //If not holding down keys, holdMove is false
     {
         holdMove = false;
     }
 
-    private void Move(Vector2 direction) //This method excutes when player taps on movement keys. It checks to see if all conditions are for movement
+    private void Move(Vector2 direction) //This method executes when player taps on movement keys. It checks to see if all conditions are met for movement
     {
 
         if (turn == true && currentMove > 0 && canMove(direction)) 
@@ -92,24 +87,23 @@ public class PlayerController : MonoBehaviour
             currentMove--; 
             UpdateUI();
             
-            coroutine = WaitAndPrint(direction);
-            StartCoroutine(coroutine);
+            coroutine = Wait(direction); //This variable will store the wait method
+            StartCoroutine(coroutine); //Will executes the wait method
 
         } 
 
     }
 
-    private IEnumerator WaitAndPrint(Vector2 direction)
+    private IEnumerator Wait(Vector2 direction) //This method will start a coroutine, which delay the move function call by 0.3f seconds, if the wasd keys are hold down
     {
-        yield return new WaitForSeconds(0.3f);
+        yield return new WaitForSeconds(0.3f); //The amount of time of delay
 
-        if(GetHoldMove())
+        if(GetHoldMove()) //If the player is still holding down the wasd keys after 0.3f seconds, the Move() method will execute to move the player 
         {
-            Debug.Log("This is holddown");
+
             Move(direction);
-        } else {
-            Debug.Log("This is not holddown");
-        }
+
+        } 
     }
 
     private bool canMove(Vector2 direction) //This part checks to see if player is near a object. If near a object, return false and if not, return true
