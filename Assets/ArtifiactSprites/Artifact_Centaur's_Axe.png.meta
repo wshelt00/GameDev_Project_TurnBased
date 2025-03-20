@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Artifact_Centaur's_Axe_0: 7392472641100274978
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

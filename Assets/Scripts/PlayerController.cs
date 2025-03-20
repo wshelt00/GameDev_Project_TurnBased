@@ -5,6 +5,7 @@ using System.Runtime.CompilerServices;
 using UnityEngine.Tilemaps;
 using UnityEngine.UI;
 using System;
+using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
@@ -19,9 +20,13 @@ public class PlayerController : MonoBehaviour
 
     private bool turn = false; 
 
+    private bool holdMove; //Determines if player hold down wasd keys to move
+
     public Slider MoveBar;
     public Button EndTurn;
     public TurnManager TurnManager;
+
+    private IEnumerator coroutine;
     private Rigidbody2D rb;
     public Button yes;
     public Button no;
@@ -34,6 +39,10 @@ public class PlayerController : MonoBehaviour
         panel.SetActive(false);
         yes.onClick.AddListener(confirmEnd);
         no.onClick.AddListener(cancelEnd);
+
+        controls.Main.Movement.performed += HoldMoving; //For holddown movement
+        controls.Main.Movement.canceled += NotHoldMoving;
+
     }
 
     private void OnEnable()
@@ -50,11 +59,30 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
 
-        controls.Main.Movement.performed += ctx => Move(ctx.ReadValue<Vector2>());
+        controls.Main.Movement.performed += ctx => Move(ctx.ReadValue<Vector2>()); //Invoke movement when wasd is tap
 
     }
 
-    private void Move(Vector2 direction)
+    void Update()
+    {
+        
+    }
+
+    public bool GetHoldMove()
+    {
+        return holdMove;
+    }
+    private void HoldMoving(InputAction.CallbackContext context) 
+    {
+        holdMove = true;
+    }
+
+    private void NotHoldMoving(InputAction.CallbackContext context) 
+    {
+        holdMove = false;
+    }
+
+    private void Move(Vector2 direction) //This method excutes when player taps on movement keys. It checks to see if all conditions are for movement
     {
 
         if (turn == true && currentMove > 0 && canMove(direction)) 
@@ -63,12 +91,28 @@ public class PlayerController : MonoBehaviour
             rb.MovePosition((Vector2) rb.position + direction);
             currentMove--; 
             UpdateUI();
+            
+            coroutine = WaitAndPrint(direction);
+            StartCoroutine(coroutine);
 
         } 
 
     }
 
-    private bool canMove(Vector2 direction)
+    private IEnumerator WaitAndPrint(Vector2 direction)
+    {
+        yield return new WaitForSeconds(0.3f);
+
+        if(GetHoldMove())
+        {
+            Debug.Log("This is holddown");
+            Move(direction);
+        } else {
+            Debug.Log("This is not holddown");
+        }
+    }
+
+    private bool canMove(Vector2 direction) //This part checks to see if player is near a object. If near a object, return false and if not, return true
     {
 
         Vector3Int gridPos = groundTileMap.WorldToCell(transform.position + (Vector3)direction);

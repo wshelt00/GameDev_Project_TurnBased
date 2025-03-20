@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Artifact_Titan's_Gladius_0: 3410182049615868690
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

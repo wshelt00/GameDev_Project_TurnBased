@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TurnButton-modified_0: -350624433186788162
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

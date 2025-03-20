@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Artifact_Plate_of_Dying_Light_0: -9126816979838111212
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

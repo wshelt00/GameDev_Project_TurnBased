@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Creature_Rogue-modified_0: 1015491197342981477
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
