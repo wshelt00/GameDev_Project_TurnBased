@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e6002f3e3a7fe5f4abfc591650d8eb62
+guid: 9801208f1a06b12489757aa0d05a881a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -350624433186788162
-    second: TurnButton-modified_0
+      213: -5325312635722052284
+    second: GoldMine_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 96
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TurnButton-modified_0
+      name: GoldMine_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 229
-        height: 229
+        width: 96
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ebc245a8fe4522bf0800000000000000
-      internalID: -350624433186788162
+      spriteID: 44d43ed5f50b816b0800000000000000
+      internalID: -5325312635722052284
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TurnButton-modified_0: -350624433186788162
+      GoldMine_0: -5325312635722052284
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

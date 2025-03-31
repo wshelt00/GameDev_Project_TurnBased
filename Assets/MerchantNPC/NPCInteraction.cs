@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -6,12 +7,11 @@ public class NPCInteraction : MonoBehaviour
 
     public Button yes;
     public Button no;
-    public Button accept;
     public Button cancel;
     public GameObject panel;
     public GameObject trade;
     private bool inRange = false;
-    
+
     void Start()
     {
 
@@ -19,7 +19,6 @@ public class NPCInteraction : MonoBehaviour
         trade.SetActive(false);
         yes.onClick.AddListener(tradingPanel);
         no.onClick.AddListener(closePanel);
-        accept.onClick.AddListener(closeTrade);
         cancel.onClick.AddListener(closeTrade);
 
     }
@@ -71,6 +70,5 @@ public class NPCInteraction : MonoBehaviour
     {
         trade.SetActive(false);
     }
-
 
 }

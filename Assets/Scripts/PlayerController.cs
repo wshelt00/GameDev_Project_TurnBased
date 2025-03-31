@@ -15,7 +15,7 @@ public class PlayerController : MonoBehaviour
     public Tilemap treeTileMap;
     public GameObject panel;
 
-    public int maxMove = 10; 
+    public int maxMove = 3; 
     private int currentMove;
 
     private bool turn = false; 
@@ -61,6 +61,24 @@ public class PlayerController : MonoBehaviour
 
         controls.Main.Movement.performed += ctx => Move(ctx.ReadValue<Vector2>()); //Invoke movement when wasd keys are tap
 
+        if (MoveBar != null)
+        {
+
+            MoveBar.maxValue = maxMove;
+            MoveBar.value = maxMove;
+
+        }
+
+    }
+
+    private void Update()
+    {
+        
+        if(Input.GetKeyDown(KeyCode.E)) //press E to end turn
+        {
+            endCheck();
+        }
+
     }
 
     public bool GetHoldMove() //get method for holdMove
@@ -86,9 +104,17 @@ public class PlayerController : MonoBehaviour
             rb.MovePosition((Vector2) rb.position + direction);
             currentMove--; 
             UpdateUI();
-            
+
+
             coroutine = Wait(direction); //This variable will store the wait method
             StartCoroutine(coroutine); //Will executes the wait method
+
+            if (currentMove == 0)
+            {
+
+                endTurn();
+
+            }
 
         } 
 
@@ -131,14 +157,15 @@ public class PlayerController : MonoBehaviour
     private void endTurn()
     {
 
-      /*  if (turn == false) this is here is we want to add any AI players later
-        {                    taking out this comment will cause the script to think it's the AI's turn
-            return;          since that has not been added yet, this will cause the player to be unable to move so don't remove this
-        } */
+        /*  if (turn == false) this is here is we want to add any AI players later
+          {                    taking out this comment will cause the script to think it's the AI's turn
+              return;          since that has not been added yet, this will cause the player to be unable to move so don't remove this
+          } */
 
-      //  turn = false;
+        //  turn = false;
 
         TurnManager.startTurn();
+        ResourceManager.resource.goldMine();
 
     } 
 
