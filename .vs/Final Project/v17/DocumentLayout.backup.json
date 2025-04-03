@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\wshel\\Final Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|c:\\users\\wshel\\final project\\assets\\merchantnpc\\npcinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\merchantnpc\\npcinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|C:\\Users\\wshel\\Final Project\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|c:\\users\\wshel\\final project\\assets\\resourcecount\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\resourcecount\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|c:\\users\\wshel\\final project\\assets\\inventoryscripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\inventoryscripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|C:\\Users\\wshel\\Final Project\\assets\\inventoryscripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\inventoryscripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|C:\\Users\\wshel\\Final Project\\assets\\merchantnpc\\merchantinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\merchantnpc\\merchantinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NPCInteraction.cs",
-              "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\MerchantNPC\\NPCInteraction.cs",
-              "RelativeDocumentMoniker": "Assets\\MerchantNPC\\NPCInteraction.cs",
-              "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\MerchantNPC\\NPCInteraction.cs",
-              "RelativeToolTip": "Assets\\MerchantNPC\\NPCInteraction.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAwwEoAAAAAAAAAAAAAAA==",
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAqwA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:09:55.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResourceManager.cs",
-              "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\ResourceCount\\ResourceManager.cs",
-              "RelativeDocumentMoniker": "Assets\\ResourceCount\\ResourceManager.cs",
-              "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\ResourceCount\\ResourceManager.cs",
-              "RelativeToolTip": "Assets\\ResourceCount\\ResourceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:06:33.637Z",
+              "WhenOpened": "2025-04-01T18:26:46.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\InventoryScripts\\Item.cs",
-              "RelativeDocumentMoniker": "Assets\\InventoryScripts\\Item.cs",
-              "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\InventoryScripts\\Item.cs",
-              "RelativeToolTip": "Assets\\InventoryScripts\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MerchantInventory.cs",
+              "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\MerchantNPC\\MerchantInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\MerchantNPC\\MerchantInventory.cs",
+              "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\MerchantNPC\\MerchantInventory.cs",
+              "RelativeToolTip": "Assets\\MerchantNPC\\MerchantInventory.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEoAAACeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:06:26.316Z"
+              "WhenOpened": "2025-04-01T17:27:18.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\InventoryScripts\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\InventoryScripts\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\InventoryScripts\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\InventoryScripts\\InventoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:36:13.21Z",
+              "EditorCaption": ""
             }
           ]
         }

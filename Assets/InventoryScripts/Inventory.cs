@@ -17,10 +17,27 @@ public class Inventory : MonoBehaviour
 
     }
 
-    public bool Empty()
+    public bool Empty() 
     {
 
-        return current == null || icons.sprite == null;
+        if (current == null)
+        {
+
+            return true;
+
+        }
+        else if (icons.sprite == null)
+        {
+
+            return true;
+
+        }
+        else
+        {
+            
+            return false;
+
+        }
 
     }
 

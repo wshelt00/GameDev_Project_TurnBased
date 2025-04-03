@@ -55,13 +55,13 @@ public class InventoryManager : MonoBehaviour
     public bool addItem(Item art) 
     {
 
-        foreach (var space in invSlots)
+        for(int i = 0; i < invSlots.Count; i++)
         {
 
-            if (space.Empty()) 
+            if(invSlots[i].Empty())
             {
-                
-                space.setItem(art);
+
+                invSlots[i].setItem(art);
                 return true;
 
             }
@@ -72,24 +72,24 @@ public class InventoryManager : MonoBehaviour
 
     }
 
-    public void equipItem(Item artfct, Inventory slot)
+    public void equipItem(Item artfct, Inventory slot) 
     {
 
-        foreach (var space in equSlots)
+        for(int i = 0; i < equSlots.Count; i++)
         {
 
-            if(space.canEquip(artfct))
+            if (equSlots[i].canEquip(artfct))
             {
 
-                if(space.current != null)
+                if (equSlots[i].current != null)
                 {
 
-                    InventoryManager.inv.addItem(space.current);
+                    InventoryManager.inv.addItem(equSlots[i].current);
 
                 }
                 
                 slot.slotClear();
-                space.setItem(artfct);
+                equSlots[i].setItem(artfct);
                 return;
 
             }
@@ -101,20 +101,20 @@ public class InventoryManager : MonoBehaviour
     public void autoEquip(Item relic, Inventory slot)
     {
 
-        foreach (var space in equSlots)
+        for(int i = 0;i < equSlots.Count; i++)
         {
 
-            if(space.canEquip(relic))
+            if (equSlots[i].canEquip(relic))
             {
 
-                if(space.current != null)
+                if (equSlots[i].current != null)
                 {
 
-                    InventoryManager.inv.addItem(space.current);
+                    InventoryManager.inv.addItem(equSlots[i].current);
 
                 }
 
-                space.setItem(relic);
+                equSlots[i].setItem(relic);
                 slot.slotClear();
                 return;
 

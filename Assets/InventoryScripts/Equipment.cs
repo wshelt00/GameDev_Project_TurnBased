@@ -19,10 +19,21 @@ public class Equipment : MonoBehaviour
 
     }
 
-    public bool canEquip(Item artifact)
+    public bool canEquip(Item artifact) 
     {
 
-        return artifact.arti == accepted;
+        if(artifact.arti == accepted)
+        {
+
+            return true;
+
+        }
+        else
+        {
+
+            return false;
+
+        }
 
     }
 
