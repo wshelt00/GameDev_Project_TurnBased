@@ -43,6 +43,15 @@ public class InventoryManager : MonoBehaviour
     public void togglePanel()
     {
 
+        if(TroopStorage.tps != null && TroopStorage.tps.troopInv.activeSelf) //here
+        {
+
+            TroopStorage.tps.animator.SetBool("IsEntered", false);
+            TroopStorage.tps.toggle = false;
+
+        }
+
+
         if(invPanel != null)
         {
 

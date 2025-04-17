@@ -1,0 +1,4055 @@
+fileFormatVersion: 2
+guid: 4ce76635437ea5a4f9b3acd22bc9465a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3912131999755769540
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_0
+  - first:
+      213: 2379759830481089613
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_1
+  - first:
+      213: -3874345814627839233
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_2
+  - first:
+      213: 3662435094892329291
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_3
+  - first:
+      213: -1154064716265822134
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_4
+  - first:
+      213: -6294744251947925737
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_5
+  - first:
+      213: -8998633258713733402
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_6
+  - first:
+      213: 5603542880168546579
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_7
+  - first:
+      213: 8088665535163130106
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_8
+  - first:
+      213: 4788080197637254018
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_9
+  - first:
+      213: -7807878599573665435
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_10
+  - first:
+      213: 2511973263081369878
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_11
+  - first:
+      213: 3181592343975528252
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_12
+  - first:
+      213: -381375454846455668
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_13
+  - first:
+      213: 1033982384273781713
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_14
+  - first:
+      213: -8394497291685513011
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_15
+  - first:
+      213: 6119479716435929363
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_16
+  - first:
+      213: 6781403608150198727
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_17
+  - first:
+      213: -5783073183646926662
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_18
+  - first:
+      213: 5082630107584193887
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_19
+  - first:
+      213: -5776373946029257427
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_20
+  - first:
+      213: 8548521208929336250
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_21
+  - first:
+      213: -5559428633317552692
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_22
+  - first:
+      213: -5640042770217197178
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_23
+  - first:
+      213: -5331727019720222498
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_24
+  - first:
+      213: 1468843506024094078
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_25
+  - first:
+      213: -7962200164960449689
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_26
+  - first:
+      213: 4004144619589864347
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_27
+  - first:
+      213: 974940983081880135
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_28
+  - first:
+      213: 6666959866596308833
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_29
+  - first:
+      213: 1351564121135897496
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_30
+  - first:
+      213: -1416517038119512094
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_31
+  - first:
+      213: 3276888589747346181
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_32
+  - first:
+      213: 3120852121884050058
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_33
+  - first:
+      213: -8173023198265903321
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_34
+  - first:
+      213: 1055353511293643384
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_35
+  - first:
+      213: 6299096169191606
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_36
+  - first:
+      213: 3316692620094968973
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_37
+  - first:
+      213: 3127746377977869683
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_38
+  - first:
+      213: -8857745703013519207
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_39
+  - first:
+      213: 3358313663905315280
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_40
+  - first:
+      213: 8306726066713853706
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_41
+  - first:
+      213: 5166853070488742421
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_42
+  - first:
+      213: 6265832884813862246
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_43
+  - first:
+      213: -4242806661935028047
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_44
+  - first:
+      213: -6434926228327077022
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_45
+  - first:
+      213: -2604675191852737635
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_46
+  - first:
+      213: 362785648837532401
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_47
+  - first:
+      213: 3832444417479213911
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_48
+  - first:
+      213: -4332574523352143000
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_49
+  - first:
+      213: -2568470145936919258
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_50
+  - first:
+      213: -1734613222314844315
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_51
+  - first:
+      213: 970221352700278884
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_52
+  - first:
+      213: 6728422807999034307
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_53
+  - first:
+      213: 1616748759542608496
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_54
+  - first:
+      213: 3813355957249373364
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_55
+  - first:
+      213: 6914382753027629423
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_56
+  - first:
+      213: -5796841934166675475
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_57
+  - first:
+      213: -3263096430937138705
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_58
+  - first:
+      213: -617593818294495146
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_59
+  - first:
+      213: -8590470401156007888
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_60
+  - first:
+      213: 7130785268059741711
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_61
+  - first:
+      213: -7938639087610042592
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_62
+  - first:
+      213: 6553086927979941610
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_63
+  - first:
+      213: 4657703832622377165
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_64
+  - first:
+      213: 4588220039776560533
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_65
+  - first:
+      213: -1390741585507327706
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_66
+  - first:
+      213: -508613762592736637
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_67
+  - first:
+      213: 5238174336950797670
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_68
+  - first:
+      213: 9055841299538879922
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_69
+  - first:
+      213: -5539431574548654653
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_70
+  - first:
+      213: 3261896859078033610
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_71
+  - first:
+      213: -3614196624114287752
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_72
+  - first:
+      213: 5066865370304518101
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_73
+  - first:
+      213: -5874994456270945822
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_74
+  - first:
+      213: -4511978023351149516
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_75
+  - first:
+      213: -7513092457812939911
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_76
+  - first:
+      213: 5825745607721409190
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_77
+  - first:
+      213: 4837034695414754052
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_78
+  - first:
+      213: -5079572972232336539
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_79
+  - first:
+      213: 3983904066579169793
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_80
+  - first:
+      213: -1705819280950511615
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_81
+  - first:
+      213: 382020630766258546
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_82
+  - first:
+      213: 6211558335140643228
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_83
+  - first:
+      213: -7477220325428304206
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_84
+  - first:
+      213: -2518923814346981969
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_85
+  - first:
+      213: -4852534487119863787
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_86
+  - first:
+      213: 2245560225337320138
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_87
+  - first:
+      213: 851777512019463054
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_88
+  - first:
+      213: 1440056902709494295
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_89
+  - first:
+      213: -6287468228681781172
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_90
+  - first:
+      213: -7158927547593165641
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_91
+  - first:
+      213: -5180347628481731118
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_92
+  - first:
+      213: -6668624234970642702
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_93
+  - first:
+      213: -1415392481542749837
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_94
+  - first:
+      213: 2132794964628922007
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_95
+  - first:
+      213: -3720242644031051896
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_96
+  - first:
+      213: 4086455669655127356
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_97
+  - first:
+      213: 8701086557261322621
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_98
+  - first:
+      213: 8403486854112542262
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_99
+  - first:
+      213: 4155143826095606680
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_100
+  - first:
+      213: -5574436048060457011
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_101
+  - first:
+      213: -4516132116640205343
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_102
+  - first:
+      213: -8361961519777980452
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_103
+  - first:
+      213: -6061591560835642895
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_104
+  - first:
+      213: -6574367327297202360
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_105
+  - first:
+      213: -834310104168742056
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_106
+  - first:
+      213: 1808677505792644759
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_107
+  - first:
+      213: -3007084941775113961
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_108
+  - first:
+      213: 3285175940653435382
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_109
+  - first:
+      213: 5466922206964263906
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_110
+  - first:
+      213: -6600503410895835436
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_111
+  - first:
+      213: 3055973029527475520
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_112
+  - first:
+      213: -3883037539917921604
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_113
+  - first:
+      213: 3226483305963157122
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_114
+  - first:
+      213: 3447402172783284419
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_115
+  - first:
+      213: 5521038146337169504
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_116
+  - first:
+      213: -26815208299504217
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_117
+  - first:
+      213: -8861736558470032946
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_118
+  - first:
+      213: 2462707704697441954
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_119
+  - first:
+      213: -8547709911145910448
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_120
+  - first:
+      213: -2591871082621713258
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_121
+  - first:
+      213: 3016036090096342248
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_122
+  - first:
+      213: -6665039130974574206
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_123
+  - first:
+      213: 239074447728884011
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_124
+  - first:
+      213: -4035589054889011208
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_125
+  - first:
+      213: -3902173662878538914
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_126
+  - first:
+      213: -7936503199459498519
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_127
+  - first:
+      213: -1406041883812171826
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_128
+  - first:
+      213: 7915568072243302381
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_129
+  - first:
+      213: 6184498460235466997
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_130
+  - first:
+      213: -8002829830527935712
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_131
+  - first:
+      213: 6566007130046976493
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_132
+  - first:
+      213: -6987524940990395041
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_133
+  - first:
+      213: -8745173088309955176
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_134
+  - first:
+      213: 8178366842330319825
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_135
+  - first:
+      213: 7049770227969928079
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_136
+  - first:
+      213: 5209182386543653192
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_137
+  - first:
+      213: 6381840969440487501
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_138
+  - first:
+      213: -109911232327278657
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_139
+  - first:
+      213: -6495833312984507373
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_140
+  - first:
+      213: 8490861190804587229
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_141
+  - first:
+      213: 723794477104727516
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_142
+  - first:
+      213: -8151208670242486002
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_143
+  - first:
+      213: 4451451842975991136
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_144
+  - first:
+      213: -1332799428450153479
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_145
+  - first:
+      213: -8304298511861706044
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_146
+  - first:
+      213: 3562309584436003991
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_147
+  - first:
+      213: -1394864028853785270
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_148
+  - first:
+      213: 5993010574180873083
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_149
+  - first:
+      213: -3749099153701999099
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_150
+  - first:
+      213: 4002656051729412749
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_151
+  - first:
+      213: 5571957875090055968
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_152
+  - first:
+      213: -7113684527148530402
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_153
+  - first:
+      213: -6026888270449963326
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_154
+  - first:
+      213: -1033530568301527630
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_155
+  - first:
+      213: -9098586108102273541
+    second: PC Computer - Heroes of Might and Magic 3 - Peasant_156
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 868
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c691ef835faa4630800000000000000
+      internalID: 3912131999755769540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 868
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44b19215fa960120800000000000000
+      internalID: 2379759830481089613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 867
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2161e320f8b3ac0800000000000000
+      internalID: -3874345814627839233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 890
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b493bfb705593d230800000000000000
+      internalID: 3662435094892329291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 867
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48e92b4140fbffe0800000000000000
+      internalID: -1154064716265822134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 890
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f36be247394a8a0800000000000000
+      internalID: -6294744251947925737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 868
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e62a5e5abe6e1380800000000000000
+      internalID: -8998633258713733402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 868
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3119d188f88c3cd40800000000000000
+      internalID: 5603542880168546579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 868
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0e75ad276b04070800000000000000
+      internalID: 8088665535163130106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_9
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 868
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b2048429da27240800000000000000
+      internalID: 4788080197637254018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_10
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 868
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569890718c7d4a390800000000000000
+      internalID: -7807878599573665435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 756
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6117e3faf525cd220800000000000000
+      internalID: 2511973263081369878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 756
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3783ca4169472c20800000000000000
+      internalID: 3181592343975528252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 756
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80f2df5b0515baf0800000000000000
+      internalID: -381375454846455668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 756
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d376ae0081795e00800000000000000
+      internalID: 1033982384273781713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 755
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc83b1d6031c08b80800000000000000
+      internalID: -8394497291685513011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 754
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3192f543162cce450800000000000000
+      internalID: 6119479716435929363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_17
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 753
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c94856f6a26c1e50800000000000000
+      internalID: 6781403608150198727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_18
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 753
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab833aa54956ebfa0800000000000000
+      internalID: -5783073183646926662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 638
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55e2476721298640800000000000000
+      internalID: 5082630107584193887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 639
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dca19208236dfa0800000000000000
+      internalID: -5776373946029257427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 640
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb302d5fb272a670800000000000000
+      internalID: 8548521208929336250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 640
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdc8f4fc11f8d2b0800000000000000
+      internalID: -5559428633317552692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 644
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681a1339bfa8ab1b0800000000000000
+      internalID: -5640042770217197178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_24
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 644
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed859363686e106b0800000000000000
+      internalID: -5331727019720222498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_25
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 644
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79943fe261626410800000000000000
+      internalID: 1468843506024094078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_26
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 644
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bc9f0b225908190800000000000000
+      internalID: -7962200164960449689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 528
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b02ff0154919730800000000000000
+      internalID: 4004144619589864347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 528
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ac09d98afa78d00800000000000000
+      internalID: 974940983081880135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 528
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1673244fcacc58c50800000000000000
+      internalID: 6666959866596308833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_30
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 528
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bd7734868b1c210800000000000000
+      internalID: 1351564121135897496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_31
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 528
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e719944245875ce0800000000000000
+      internalID: -1416517038119512094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_32
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 528
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bdb688fc8d97d20800000000000000
+      internalID: 3276888589747346181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_33
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 528
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a824c69487e7f4b20800000000000000
+      internalID: 3120852121884050058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_34
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 528
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727755624b6939e80800000000000000
+      internalID: -8173023198265903321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_35
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 549
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a6e115d6e55ae00800000000000000
+      internalID: 1055353511293643384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 412
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8129d9ef0661000800000000000000
+      internalID: 6299096169191606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 412
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d849be98d52470e20800000000000000
+      internalID: 3316692620094968973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 412
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375b2ee52ccf76b20800000000000000
+      internalID: 3127746377977869683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_39
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 412
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990f225a637f21580800000000000000
+      internalID: -8857745703013519207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 412
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9ba65fb702b9e20800000000000000
+      internalID: 3358313663905315280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_41
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 422
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ff4f4c85b674370800000000000000
+      internalID: 8306726066713853706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_42
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 412
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a2e111e7954b740800000000000000
+      internalID: 5166853070488742421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_43
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 421
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6659a499fc5b4f650800000000000000
+      internalID: 6265832884813862246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_44
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 412
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8a3b002d58e15c0800000000000000
+      internalID: -4242806661935028047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_45
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 412
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b68b460bc82b6a0800000000000000
+      internalID: -6434926228327077022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 304
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b585296b55adbd0800000000000000
+      internalID: -2604675191852737635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_47
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 304
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa129020afd80500800000000000000
+      internalID: 362785648837532401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 304
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753074d74e39f2530800000000000000
+      internalID: 3832444417479213911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_49
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 300
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b20bc0d6a9fd3c0800000000000000
+      internalID: -4332574523352143000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_50
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 297
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625fb37b206fa5cd0800000000000000
+      internalID: -2568470145936919258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_51
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 299
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f5a35f67a6de7e0800000000000000
+      internalID: -1734613222314844315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_52
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 304
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468f2390e2be67d00800000000000000
+      internalID: 970221352700278884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_53
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 304
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c33b6925e8206d50800000000000000
+      internalID: 6728422807999034307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 197
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072379f4e68df6610800000000000000
+      internalID: 1616748759542608496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_55
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 197
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f7f10a03cbe430800000000000000
+      internalID: 3813355957249373364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_56
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 198
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61ac4bda72d4ff50800000000000000
+      internalID: 6914382753027629423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_57
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 199
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def28ee49fa7d8fa0800000000000000
+      internalID: -5796841934166675475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_58
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 202
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9952ea51727b2d0800000000000000
+      internalID: -3263096430937138705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 204
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6585415c1bddd67f0800000000000000
+      internalID: -617593818294495146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_60
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 235
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038b6953fa488c880800000000000000
+      internalID: -8590470401156007888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_61
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 245
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e1a48bb63a5f260800000000000000
+      internalID: 7130785268059741711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_62
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027e8fe7fc944d190800000000000000
+      internalID: -7938639087610042592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_63
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee008c57dd31fa50800000000000000
+      internalID: 6553086927979941610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_64
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 245
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8ae6c45fc73a040800000000000000
+      internalID: 4657703832622377165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_65
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595e53611d1acaf30800000000000000
+      internalID: 4588220039776560533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_66
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621e87d75e713bce0800000000000000
+      internalID: -1390741585507327706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_67
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 245
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38af8c84a7a01f8f0800000000000000
+      internalID: -508613762592736637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_68
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 203
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66505817ecbb1b840800000000000000
+      internalID: 5238174336950797670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_69
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 220
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5a3599eafccad70800000000000000
+      internalID: 9055841299538879922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_70
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 220
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5d175055cff13b0800000000000000
+      internalID: -5539431574548654653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_71
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 220
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac00f4b39e5944d20800000000000000
+      internalID: 3261896859078033610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_72
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 220
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b7047b15bc7ddc0800000000000000
+      internalID: -3614196624114287752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_73
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 220
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d79ab9753f115640800000000000000
+      internalID: 5066865370304518101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_74
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 220
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1c4984ba3d77ea0800000000000000
+      internalID: -5874994456270945822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_75
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 220
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c19cba4eb3261c0800000000000000
+      internalID: -4511978023351149516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_76
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 220
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ba46737322cb790800000000000000
+      internalID: -7513092457812939911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_77
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 220
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aad60c93c439d050800000000000000
+      internalID: 5825745607721409190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_78
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 217
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40baf628d69902340800000000000000
+      internalID: 4837034695414754052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_79
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 220
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b9a636b4bb189b0800000000000000
+      internalID: -5079572972232336539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_80
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 220
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1028fa314aba94730800000000000000
+      internalID: 3983904066579169793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_81
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 220
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108beebd666b358e0800000000000000
+      internalID: -1705819280950511615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_82
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 220
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27981b95db53d4500800000000000000
+      internalID: 382020630766258546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_83
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 220
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91cca34563e33650800000000000000
+      internalID: 6211558335140643228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_84
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 220
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6e383eab39b3890800000000000000
+      internalID: -7477220325428304206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_85
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 220
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad739df22cfa0dd0800000000000000
+      internalID: -2518923814346981969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_86
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 217
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51063e2089558acb0800000000000000
+      internalID: -4852534487119863787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_87
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 220
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac22af0a025d92f10800000000000000
+      internalID: 2245560225337320138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_88
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 204
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b069f522f12db00800000000000000
+      internalID: 851777512019463054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_89
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 204
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712495e8f1c1cf310800000000000000
+      internalID: 1440056902709494295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_90
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 202
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c403edc55fc6eb8a0800000000000000
+      internalID: -6287468228681781172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_91
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 204
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b473f8335166ac90800000000000000
+      internalID: -7158927547593165641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_92
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 204
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d52f4f4745bb18b0800000000000000
+      internalID: -5180347628481731118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_93
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 204
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6830617994473a0800000000000000
+      internalID: -6668624234970642702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_94
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 201
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371c2ef79048b5ce0800000000000000
+      internalID: -1415392481542749837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_95
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 204
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ed27568b5399d10800000000000000
+      internalID: 2132794964628922007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_96
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 204
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887e444a60b0f5cc0800000000000000
+      internalID: -3720242644031051896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_97
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 204
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35cc24d7c106b830800000000000000
+      internalID: 4086455669655127356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_98
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 204
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79dc7d9f1870c870800000000000000
+      internalID: 8701086557261322621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_99
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 204
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63efa0e25ce2f9470800000000000000
+      internalID: 8403486854112542262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_100
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 204
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b06118b490aa930800000000000000
+      internalID: 4155143826095606680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_101
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 204
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf593ce2ff93a2b0800000000000000
+      internalID: -5574436048060457011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_102
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 204
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e57de474c97351c0800000000000000
+      internalID: -4516132116640205343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_103
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 72
+        width: 40
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfd5242d4854fb80800000000000000
+      internalID: -8361961519777980452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_104
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 72
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9c2e25796e0eba0800000000000000
+      internalID: -6061591560835642895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_105
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 72
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84714819fb723c4a0800000000000000
+      internalID: -6574367327297202360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_106
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 72
+        width: 33
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853c080716feb64f0800000000000000
+      internalID: -834310104168742056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_107
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 72
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7969206db96b91910800000000000000
+      internalID: 1808677505792644759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_108
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711711c7d20b446d0800000000000000
+      internalID: -3007084941775113961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_109
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 72
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9ce47cc1a479d20800000000000000
+      internalID: 3285175940653435382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_110
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 71
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebacc048c86edb40800000000000000
+      internalID: 5466922206964263906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_111
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 61
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deacc66e1d4664a0800000000000000
+      internalID: -6600503410895835436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_112
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 61
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045d824774ff86a20800000000000000
+      internalID: 3055973029527475520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_113
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 61
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb28faf3eedac1ac0800000000000000
+      internalID: -3883037539917921604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_114
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 5
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28679add875c6cc20800000000000000
+      internalID: 3226483305963157122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_115
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 58
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c058a2d202a7df20800000000000000
+      internalID: 3447402172783284419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_116
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 58
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060eecf31faae9c40800000000000000
+      internalID: 5521038146337169504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_117
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 61
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7addabac5bbb0aff0800000000000000
+      internalID: -26815208299504217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_118
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 58
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec11d433d89c40580800000000000000
+      internalID: -8861736558470032946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_119
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 6
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aecb140c9b4d2220800000000000000
+      internalID: 2462707704697441954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_120
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 6
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fef0f9f1f606980800000000000000
+      internalID: -8547709911145910448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_121
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 7
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694c9b09bf2d70cd0800000000000000
+      internalID: -2591871082621713258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_122
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 6
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e453f328dc1bd920800000000000000
+      internalID: 3016036090096342248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_123
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 6
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289ae2829360183a0800000000000000
+      internalID: -6665039130974574206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_124
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 40
+        width: 126
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29b0cb81fc515300800000000000000
+      internalID: 239074447728884011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_125
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 43
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7d2e3d225bef7c0800000000000000
+      internalID: -4035589054889011208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_126
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 43
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e536d3c6ab1b8d9c0800000000000000
+      internalID: -3902173662878538914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_127
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 43
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e52775b360ebd190800000000000000
+      internalID: -7936503199459498519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_128
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 43
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfed003b5cbc7ce0800000000000000
+      internalID: -1406041883812171826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_129
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def4c75293fb9dd60800000000000000
+      internalID: 7915568072243302381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_130
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 27
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8094c2590c3d550800000000000000
+      internalID: 6184498460235466997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_131
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 27
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b9b718bac30f090800000000000000
+      internalID: -8002829830527935712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_132
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1d12352b42f1b50800000000000000
+      internalID: 6566007130046976493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_133
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 24
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dc5117613570f90800000000000000
+      internalID: -6987524940990395041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_134
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895bafbf867e2a680800000000000000
+      internalID: -8745173088309955176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_135
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db8eefef456f7170800000000000000
+      internalID: 8178366842330319825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_136
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ba54acba0d5d160800000000000000
+      internalID: 7049770227969928079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_137
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 25
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841f728f7cbba4840800000000000000
+      internalID: 5209182386543653192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_138
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 24
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48e88c9c8ad09850800000000000000
+      internalID: 6381840969440487501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_139
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 27
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf9e480154897ef0800000000000000
+      internalID: -109911232327278657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_140
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 27
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cd86ba40a2ad5a0800000000000000
+      internalID: -6495833312984507373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_141
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 27
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2ce0b344995d570800000000000000
+      internalID: 8490861190804587229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_142
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5873afd3f6b0a00800000000000000
+      internalID: 723794477104727516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_143
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 27
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09cc10c6e611ee80800000000000000
+      internalID: -8151208670242486002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_144
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 8
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065875bcddbb6cd30800000000000000
+      internalID: 4451451842975991136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_145
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb82663bf1f08de0800000000000000
+      internalID: -1332799428450153479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_146
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c29da3608431cc80800000000000000
+      internalID: -8304298511861706044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_147
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 11
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794074071bddf6130800000000000000
+      internalID: 3562309584436003991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_148
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d233a5e8274ace0800000000000000
+      internalID: -1394864028853785270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_149
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 8
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73f5396d537b2350800000000000000
+      internalID: 5993010574180873083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_150
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50eefdbee2688fbc0800000000000000
+      internalID: -3749099153701999099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_151
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d823669d87a4c8730800000000000000
+      internalID: 4002656051729412749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_152
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023ee287a22935d40800000000000000
+      internalID: 5571957875090055968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_153
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e158e1bcc9d174d90800000000000000
+      internalID: -7113684527148530402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_154
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce8cd2cc013c5ca0800000000000000
+      internalID: -6026888270449963326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_155
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 11
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd31eb8c6928a1f0800000000000000
+      internalID: -1033530568301527630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Peasant_156
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 11
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5924c14245bb180800000000000000
+      internalID: -9098586108102273541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

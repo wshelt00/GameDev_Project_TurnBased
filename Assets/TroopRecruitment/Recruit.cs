@@ -1,17 +1,17 @@
-using UnityEngine;
 using System.Collections.Generic;
+using NUnit.Framework;
+using UnityEngine;
 using UnityEngine.UI;
-using UnityEditor.Compilation;
 
-public class MerchantInventory : MonoBehaviour
+public class Recruit : MonoBehaviour 
 {
 
-    public Item[] itemSale;
+    public TroopStats[] unitSale;
     public int[] prices;
-    List<Item> soldItems;
+    List<TroopStats> soldUnits;
     List<int> soldPrices;
-    private Item selected;
-    private Item previous;
+    private TroopStats selected;
+    private TroopStats previous;
     private int selectedPrice;
     public int total;
     int j;
@@ -19,23 +19,23 @@ public class MerchantInventory : MonoBehaviour
     public Text priceText;
     public Button conf;
 
-    private void Start() 
+    private void Start()
     {
 
         conf.interactable = false;
-        conf.onClick.AddListener(itemPurchase);
+        conf.onClick.AddListener(unitPurchase);
 
     }
 
-    public void itemSelection(int i)  
+    public void unitSelection(int i)
     {
 
-        if (i < 0 || i >= itemSale.Length) 
+        if (i < 0 || i >= unitSale.Length)
         {
             return;
         }
 
-        if (selected == itemSale[i]) 
+        if (selected == unitSale[i])
         {
 
             clearItem();
@@ -43,49 +43,49 @@ public class MerchantInventory : MonoBehaviour
 
         }
 
-        if (previous != null) 
+        if (previous != null)
         {
 
             previous.GetComponent<Image>().color = Color.white;
 
         }
 
-        selected = itemSale[i];  
+        selected = unitSale[i];
         selectedPrice = prices[i];
         priceText.text = selectedPrice.ToString() + " Gold";
 
-        selected.GetComponent<Image>().color = Color.yellow; 
+        selected.GetComponent<Image>().color = Color.yellow;
         previous = selected;
 
-        conf.interactable = true; 
+        conf.interactable = true;
 
     }
 
-    public void itemPurchase() 
+    public void unitPurchase()
     {
 
-        if (selected != null && ResourceManager.resource.gold >= selectedPrice) 
+        if (selected != null && ResourceManager.resource.gold >= selectedPrice)
         {
 
             ResourceManager.resource.gold -= selectedPrice;
             ResourceManager.resource.goldUpdate();
 
-            InventoryManager.inv.addItem(selected); 
+            TroopStorage.tps.addTroops(selected);
 
-            soldItems = new List<Item>(itemSale);
+            soldUnits = new List<TroopStats>(unitSale);
             soldPrices = new List<int>(prices);
 
-            j = System.Array.IndexOf(itemSale, selected);
+            j = System.Array.IndexOf(unitSale, selected);
 
             if (j != -1)
             {
 
-                soldItems.RemoveAt(j);
+                soldUnits.RemoveAt(j);
                 soldPrices.RemoveAt(j);
 
             }
 
-            itemSale = soldItems.ToArray();
+            unitSale = soldUnits.ToArray();
             prices = soldPrices.ToArray();
 
             selected.gameObject.SetActive(false);

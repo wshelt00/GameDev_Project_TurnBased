@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c0872dc579cf546429da966d913658fd
+guid: 6fdfdeeaa3a425641ae147b3df15f93a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3473854825913221439
-    second: MUS_0
+      213: 4593119923848919993
+    second: Horseman_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MUS_0
+      name: Horseman_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1344
-        height: 768
+        x: 8
+        y: 6
+        width: 85
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ce7a2ce0736acfc0800000000000000
-      internalID: -3473854825913221439
+      spriteID: 9bbb8cf3c3a0ebf30800000000000000
+      internalID: 4593119923848919993
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      MUS_0: -3473854825913221439
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

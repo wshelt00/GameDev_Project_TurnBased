@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c0872dc579cf546429da966d913658fd
+guid: 9e7a2f775e3db414f87b13c8502eb3b0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3473854825913221439
-    second: MUS_0
+      213: -7554626195528885557
+    second: TroopButton_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MUS_0
+      name: TroopButton_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1344
-        height: 768
+        x: 3
+        y: 2
+        width: 75
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ce7a2ce0736acfc0800000000000000
-      internalID: -3473854825913221439
+      spriteID: bcad3a45083982790800000000000000
+      internalID: -7554626195528885557
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      MUS_0: -3473854825913221439
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

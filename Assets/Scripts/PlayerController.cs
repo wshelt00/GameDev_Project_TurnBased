@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
 {
 
     private PlayerMovement controls;
+    public DialogueManager dm;
     public Tilemap groundTileMap;
     public Tilemap treeTileMap;
     public GameObject panel;
@@ -98,6 +99,13 @@ public class PlayerController : MonoBehaviour
     private void Move(Vector2 direction) //This method executes when player taps on movement keys. It checks to see if all conditions are met for movement
     {
 
+        if(dm != null && dm.talking == true)
+        {
+
+            return;
+
+        }
+
         if (turn == true && currentMove > 0 && canMove(direction)) 
         {
             
@@ -157,7 +165,7 @@ public class PlayerController : MonoBehaviour
     private void endTurn()
     {
 
-        /*  if (turn == false) this is here is we want to add any AI players later
+        /*  if (turn == false) this here is when we want to add any AI players later
           {                    taking out this comment will cause the script to think it's the AI's turn
               return;          since that has not been added yet, this will cause the player to be unable to move so don't remove this
           } */
@@ -171,7 +179,7 @@ public class PlayerController : MonoBehaviour
 
     private void UpdateUI() 
     {
-        if (MoveBar != null) 
+        if (MoveBar != null && (dm == null || dm.talking == false)) 
         {
             MoveBar.value = currentMove; 
         }
