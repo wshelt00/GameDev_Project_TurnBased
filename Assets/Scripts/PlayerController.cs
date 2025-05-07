@@ -12,6 +12,7 @@ public class PlayerController : MonoBehaviour
 
     private PlayerMovement controls;
     public DialogueManager dm;
+    public TurnManager tm;
     public Tilemap groundTileMap;
     public Tilemap treeTileMap;
     public GameObject panel;
@@ -74,6 +75,13 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+
+        if(tm.inBattle == true)
+        {
+
+            return;
+
+        }
         
         if(Input.GetKeyDown(KeyCode.E)) //press E to end turn
         {
@@ -99,6 +107,13 @@ public class PlayerController : MonoBehaviour
     private void Move(Vector2 direction) //This method executes when player taps on movement keys. It checks to see if all conditions are met for movement
     {
 
+        if(tm != null && tm.inBattle == true)
+        {
+
+            return;
+
+        }
+
         if(dm != null && dm.talking == true)
         {
 
@@ -113,6 +128,7 @@ public class PlayerController : MonoBehaviour
             currentMove--; 
             UpdateUI();
 
+           // BattleScene.sc.moveCount();
 
             coroutine = Wait(direction); //This variable will store the wait method
             StartCoroutine(coroutine); //Will executes the wait method
@@ -164,13 +180,6 @@ public class PlayerController : MonoBehaviour
 
     private void endTurn()
     {
-
-        /*  if (turn == false) this here is when we want to add any AI players later
-          {                    taking out this comment will cause the script to think it's the AI's turn
-              return;          since that has not been added yet, this will cause the player to be unable to move so don't remove this
-          } */
-
-        //  turn = false;
 
         TurnManager.startTurn();
         ResourceManager.resource.goldMine();

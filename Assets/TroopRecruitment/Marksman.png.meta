@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Marksman_0: 2262307474869743876
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

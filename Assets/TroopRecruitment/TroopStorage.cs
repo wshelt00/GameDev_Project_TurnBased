@@ -111,11 +111,33 @@ public class TroopStorage : MonoBehaviour
         {
 
             equStats.Add(equUnit[i].current);
+            
+        }
+
+    }
+
+    public void copyList(List<TroopStats> units)
+    {
+
+        for(int i = 0; i < equUnit.Count; i++)
+        {
+
+            if (i < units.Count && units[i] != null)
+            {
+
+                equUnit[i].setItem(units[i]);
+
+            } else
+            {
+
+                equUnit[i].Clear();
+
+            }
 
         }
 
-
     }
+
 
     public void autoEquip(TroopStats troop, Slots slot)
     {
@@ -128,6 +150,7 @@ public class TroopStorage : MonoBehaviour
 
                 equUnit[i].setItem(troop);
                 slot.slotClear();
+                equipStats();
                 return;
 
             }
@@ -139,7 +162,7 @@ public class TroopStorage : MonoBehaviour
     public void toggleTroopInv()
     {
 
-        if(InventoryManager.inv != null && InventoryManager.inv.invPanel.activeSelf) //here
+        if(InventoryManager.inv != null && InventoryManager.inv.invPanel.activeSelf) 
         {
 
             InventoryManager.inv.invPanel.SetActive(false);

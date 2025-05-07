@@ -40,14 +40,42 @@ public class Equipment : MonoBehaviour
     public void setItem(Item newArt)
     {
 
+        if(current != null)
+        {
+
+            InventoryManager.inv.globalATK -= current.atkUp;
+            InventoryManager.inv.globalDef -= current.defUp;
+
+        }
+
         current = newArt;
         artIcon.sprite = newArt.icon;
         artIcon.enabled = true;
+
+        if(newArt.arti == "Weapon")
+        {
+
+            InventoryManager.inv.globalATK += newArt.atkUp;
+
+        }
+
+        if(newArt.arti == "Armor" || newArt.arti == "Shield" || newArt.arti == "Helmet" || newArt.arti == "Boots")
+        {
+
+            InventoryManager.inv.globalDef += newArt.defUp;
+
+        }
 
     }
 
     public void Clear()
     {
+
+        if (current != null)
+        {
+            InventoryManager.inv.globalATK -= current.atkUp;
+            InventoryManager.inv.globalDef -= current.defUp;
+        }
 
         current = null;
         artIcon.sprite = null;

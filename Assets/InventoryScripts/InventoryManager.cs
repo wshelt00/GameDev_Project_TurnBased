@@ -15,6 +15,9 @@ public class InventoryManager : MonoBehaviour
     public GameObject button;
     public GameObject invPanel;
 
+    public int globalATK;
+    public int globalDef;
+
     public void Awake()
     {
         
@@ -22,6 +25,7 @@ public class InventoryManager : MonoBehaviour
         {
 
             inv = this;
+            DontDestroyOnLoad(gameObject);
 
         } else
         {

@@ -23,7 +23,7 @@ public class TroopEquip : MonoBehaviour, IPointerClickHandler
     public bool canEquip(TroopStats unit)
     {
 
-        if (unit.type == accepted)
+        if (string.IsNullOrEmpty(accepted) || accepted == "Any" || unit.type == accepted)
         {
 
             return true;
@@ -41,9 +41,9 @@ public class TroopEquip : MonoBehaviour, IPointerClickHandler
     public void setItem(TroopStats newArt)
     {
 
-        current = newArt;
-        unitIcon.sprite = newArt.icon;
-        unitIcon.enabled = true;
+          current = newArt;
+          unitIcon.sprite = newArt.icon;
+          unitIcon.enabled = true; 
 
     }
 
