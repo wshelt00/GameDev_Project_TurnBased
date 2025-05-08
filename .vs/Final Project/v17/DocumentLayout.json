@@ -11,24 +11,28 @@
       "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\trooprecruitment\\troopstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|c:\\users\\wshel\\final project\\assets\\trooprecruitment\\battlescenescripts\\deploymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\trooprecruitment\\battlescenescripts\\deploymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|C:\\Users\\wshel\\Final Project\\assets\\trooprecruitment\\battlescenescripts\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|c:\\users\\wshel\\final project\\assets\\trooprecruitment\\battlescenescripts\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\trooprecruitment\\battlescenescripts\\battlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|c:\\users\\wshel\\final project\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|C:\\Users\\wshel\\Final Project\\assets\\trooprecruitment\\battlescenescripts\\deploymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\trooprecruitment\\battlescenescripts\\deploymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|C:\\Users\\wshel\\Final Project\\assets\\trooprecruitment\\troopstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\trooprecruitment\\troopstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|c:\\users\\wshel\\final project\\assets\\scripts\\over.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\over.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|C:\\Users\\wshel\\Final Project\\assets\\trooprecruitment\\troopequip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\trooprecruitment\\troopequip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|C:\\Users\\wshel\\Final Project\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|Assembly-CSharp.csproj|C:\\Users\\wshel\\Final Project\\assets\\trooprecruitment\\slots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Over.cs",
+              "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\Scripts\\Over.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Over.cs",
+              "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\Scripts\\Over.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Over.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:42:21.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAAwIIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T16:33:50.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T16:33:50.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Slots.cs",
               "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\TroopRecruitment\\Slots.cs",
               "RelativeDocumentMoniker": "Assets\\TroopRecruitment\\Slots.cs",
@@ -79,12 +95,11 @@
               "RelativeToolTip": "Assets\\TroopRecruitment\\TroopEquip.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowCsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:32:38.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T06:32:38.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "TroopStorage.cs",
               "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\TroopRecruitment\\TroopStorage.cs",
               "RelativeDocumentMoniker": "Assets\\TroopRecruitment\\TroopStorage.cs",
@@ -97,26 +112,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BattleScene.cs",
               "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\TroopRecruitment\\BattleSceneScripts\\BattleScene.cs",
               "RelativeDocumentMoniker": "Assets\\TroopRecruitment\\BattleSceneScripts\\BattleScene.cs",
               "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\TroopRecruitment\\BattleSceneScripts\\BattleScene.cs",
               "RelativeToolTip": "Assets\\TroopRecruitment\\BattleSceneScripts\\BattleScene.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowB8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T20:41:37.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DeploymentManager.cs",
               "DocumentMoniker": "C:\\Users\\wshel\\Final Project\\Assets\\TroopRecruitment\\BattleSceneScripts\\DeploymentManager.cs",
               "RelativeDocumentMoniker": "Assets\\TroopRecruitment\\BattleSceneScripts\\DeploymentManager.cs",
               "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\TroopRecruitment\\BattleSceneScripts\\DeploymentManager.cs",
               "RelativeToolTip": "Assets\\TroopRecruitment\\BattleSceneScripts\\DeploymentManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T14:57:04.471Z",
               "EditorCaption": ""
@@ -129,7 +144,7 @@
               "RelativeDocumentMoniker": "Assets\\TroopRecruitment\\BattleSceneScripts\\BattleTurnManager.cs",
               "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\TroopRecruitment\\BattleSceneScripts\\BattleTurnManager.cs",
               "RelativeToolTip": "Assets\\TroopRecruitment\\BattleSceneScripts\\BattleTurnManager.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC8AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T21:00:44.263Z",
               "EditorCaption": ""
@@ -142,7 +157,7 @@
               "RelativeDocumentMoniker": "Assets\\TroopRecruitment\\TroopStats.cs",
               "ToolTip": "C:\\Users\\wshel\\Final Project\\Assets\\TroopRecruitment\\TroopStats.cs",
               "RelativeToolTip": "Assets\\TroopRecruitment\\TroopStats.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T19:47:26.1Z",
               "EditorCaption": ""

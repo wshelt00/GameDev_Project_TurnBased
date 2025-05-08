@@ -13,8 +13,10 @@ public class BattleScene : MonoBehaviour
     public TurnManager tm;
     public GameObject deployUI;
     public AudioSource audio;
-    //public AudioClip btlmusic;
+    public GameObject winUI;
     public AudioSource ovrmusic;
+
+    public GameObject boss;
 
     private int move = 0;
     private int threshold = 100;
@@ -26,7 +28,6 @@ public class BattleScene : MonoBehaviour
     public Animator animator;
     public Animator UIanimator;
     public Button fight;
-    public Button flee;
     public Button troops;
     public Button inv;
 
@@ -46,15 +47,16 @@ public class BattleScene : MonoBehaviour
     {
 
         fight.gameObject.SetActive(false);
-        flee.gameObject.SetActive(false);
         deployUI.SetActive(false);
         deployUI.SetActive(true);
+        winUI.SetActive(false);
 
     }
 
     void Update()
     {
-        if (player.tag == "Winning" && active == true) { //
+        if (player.tag == "Winning" && active == true)
+        { 
             Destroy(gameObject);
         }
     }
@@ -68,7 +70,6 @@ public class BattleScene : MonoBehaviour
         if (deployUI != null)
         {
             fight.gameObject.SetActive(true);
-            flee.gameObject.SetActive(true);
 
             troops.enabled = false;
             inv.enabled = false;
@@ -94,16 +95,16 @@ public class BattleScene : MonoBehaviour
 
             dm.DeployUnits();
 
-        } 
+        }
 
-        if(ovrmusic != null)
+        if (ovrmusic != null)
         {
 
             ovrmusic.Stop();
 
         }
 
-        if(audio != null)
+        if (audio != null)
         {
 
             audio.loop = true;
@@ -120,17 +121,16 @@ public class BattleScene : MonoBehaviour
 
         animator.SetBool("IsEntered", false);
         fight.gameObject.SetActive(false);
-        flee.gameObject.SetActive(false);
         tm.inBattle = false;
 
-        if(audio != null && audio.isPlaying)
+        if (audio != null && audio.isPlaying)
         {
 
             audio.Stop();
 
         }
 
-        if(ovrmusic != null)
+        if (ovrmusic != null)
         {
 
             ovrmusic.Play();
@@ -144,7 +144,6 @@ public class BattleScene : MonoBehaviour
 
         UIanimator.SetBool("IsEntered", false);
         fight.gameObject.SetActive(false);
-        flee.gameObject.SetActive(false);
         troops.enabled = true;
         inv.enabled = true;
         tm.inBattle = false;

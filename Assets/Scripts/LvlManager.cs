@@ -14,10 +14,10 @@ public class LevelManager : MonoBehaviour
 
     public void exitScene()
     {   
-        Debug.Log("Exited");
-        #if UNITY_EDITOR
+
         UnityEditor.EditorApplication.isPlaying = false;
-        #endif
+
         Application.Quit();
+
     }
 }
