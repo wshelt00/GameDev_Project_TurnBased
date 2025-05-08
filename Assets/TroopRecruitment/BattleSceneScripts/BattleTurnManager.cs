@@ -35,6 +35,8 @@ public class BattleTurnManager : MonoBehaviour
     public Transform[] playerSpots;
     public Transform[] enemySpots;
 
+    public PlayerController player;
+
     private bool forClick;
 
     public IEnumerator BeginBattle()
@@ -132,6 +134,7 @@ public class BattleTurnManager : MonoBehaviour
 
                 }
 
+                
                 yield return PlayerATK(playerUnits[i], enemyUnits);
 
             }
@@ -141,6 +144,7 @@ public class BattleTurnManager : MonoBehaviour
 
                 if (playerUnits.All(e => !e.gameObject.activeSelf || e.HP <= 0)) //if all player units are dead this will run
                 {
+                    
 
                     break;
 
@@ -152,7 +156,7 @@ public class BattleTurnManager : MonoBehaviour
 
             if (enemyUnits.All(e => !e.gameObject.activeSelf || e.HP <= 0)) //if all enemy units are dead this will run
             {
-
+                player.tag = "Winning";
                 StopAllCoroutines();
                 tm.inBattle = false;
                 bs.Cycle();

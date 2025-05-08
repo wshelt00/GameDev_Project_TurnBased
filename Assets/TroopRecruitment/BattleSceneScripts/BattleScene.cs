@@ -19,6 +19,8 @@ public class BattleScene : MonoBehaviour
     private int move = 0;
     private int threshold = 100;
 
+    private bool active = false;
+
     public List<TroopStats> enemyUnits;
 
     public Animator animator;
@@ -30,6 +32,8 @@ public class BattleScene : MonoBehaviour
 
     public bool toggle = false;
     public bool toggleUI = false;
+
+    public PlayerController player;
 
     private void Awake()
     {
@@ -48,14 +52,21 @@ public class BattleScene : MonoBehaviour
 
     }
 
+    void Update()
+    {
+        if (player.tag == "Winning" && active == true) { //
+            Destroy(gameObject);
+        }
+    }
+
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-
+        active = true;
         EnemyDeployment.ed.setEnemy(enemyUnits);
 
         if (deployUI != null)
         {
-
             fight.gameObject.SetActive(true);
             flee.gameObject.SetActive(true);
 
@@ -153,37 +164,5 @@ public class BattleScene : MonoBehaviour
         }
 
     }
-
-  /*  public void moveCount()
-    {
-
-        move++;
-        int randomVal = Random.Range(0, 96);
-
-        if (move + randomVal > threshold)
-        {
-
-            troops.enabled = false;
-            inv.enabled = false;
-            tm.inBattle = true;
-
-            EnemyDeployment.ed.setEnemy(enemyUnits);
-            TroopStorage.tps.equipStats();
-
-            if (deployUI != null)
-            {
-
-                UIanimator.SetBool("IsEntered", true);
-
-                fight.gameObject.SetActive(true);
-                flee.gameObject.SetActive(true);
-
-                move = 0;
-
-            }
-
-        }
-
-    } */
 
 }

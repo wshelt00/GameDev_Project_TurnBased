@@ -6,11 +6,47 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Game.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Menu.unity
+    guid: 5fd27beaeacec1348a097f635dfb76b1
   - enabled: 0
     path: Assets/Scenes/BattleScene.unity
     guid: 1e9d56d220db91d40ae307dbdc151d35
+  - enabled: 1
+    path: Assets/Scenes/HelpBasic.unity
+    guid: 27e59bf887c48314a9a9974681cac5d1
+  - enabled: 1
+    path: Assets/Scenes/HelpBattle.unity
+    guid: 3b50db343a10baa46882b35fdf65fff3
+  - enabled: 1
+    path: Assets/Scenes/HelpHub.unity
+    guid: 54c745200d1084c4f91c405b3b633d75
+  - enabled: 1
+    path: Assets/Scenes/HelpItem.unity
+    guid: f70225ed69324f9418f217000da2bb8a
+  - enabled: 1
+    path: Assets/Scenes/HelpUnit.unity
+    guid: 3db37798d6982cc4e89051880e5a85a7
+  - enabled: 1
+    path: Assets/Scenes/Intro1.unity
+    guid: a04e0a6c4a9c0a84ea4e9ae562434069
+  - enabled: 1
+    path: Assets/Scenes/Intro2.unity
+    guid: b057d4e3c9799b64193b639983ef00bb
+  - enabled: 1
+    path: Assets/Scenes/Intro3.unity
+    guid: 4121180707dced3439ffa9e2e8e0ccde
+  - enabled: 1
+    path: Assets/Scenes/Intro4.unity
+    guid: df68728617ba8804c845094e62807dd2
+  - enabled: 1
+    path: Assets/Scenes/Intro5.unity
+    guid: 38ffda262b2165c41b04f5f8ed774d4a
+  - enabled: 1
+    path: Assets/Scenes/Intro6.unity
+    guid: a76cb5b9380fd9b42be2d908d170203b
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -75,6 +75,13 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        if(gameObject.tag == "Winning") {
+            Debug.Log("We won!");
+            coroutine = Wait2();
+            StartCoroutine(coroutine);
+            gameObject.tag = "Player";
+            Debug.Log("Reseting tag");
+        }
 
         if(tm.inBattle == true)
         {
@@ -142,6 +149,11 @@ public class PlayerController : MonoBehaviour
 
         } 
 
+    }
+
+    private IEnumerator Wait2() 
+    {
+        yield return new WaitForSeconds(0.3f); //The amount of time of delay
     }
 
     private IEnumerator Wait(Vector2 direction) //This method will start a coroutine, which delay the move function call by 0.3f seconds, if the wasd keys are hold down

@@ -59,7 +59,7 @@
     <UnityVersion>6000.0.34f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\net60\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.1\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\net60\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.2\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.34f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.34f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.34f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
@@ -73,6 +73,7 @@
     <Compile Include="Assets\InventoryScripts\InventoryManager.cs" />
     <Compile Include="Assets\DIalogueScripts\Dialogue.cs" />
     <Compile Include="Assets\InventoryScripts\Item.cs" />
+    <Compile Include="Assets\Scripts\LoadInventory.cs" />
     <Compile Include="Assets\InventoryScripts\Inventory.cs" />
     <Compile Include="Assets\ResourceCount\ResourceManager.cs" />
     <Compile Include="Assets\TroopRecruitment\TroopEquip.cs" />
@@ -86,6 +87,7 @@
     <Compile Include="Assets\TroopRecruitment\BattleSceneScripts\EnemyDeployment.cs" />
     <Compile Include="Assets\DIalogueScripts\DialogueTrigger.cs" />
     <Compile Include="Assets\ResourceCount\GoldMine.cs" />
+    <Compile Include="Assets\Scripts\CameraManager.cs" />
     <Compile Include="Assets\MerchantNPC\NPCInteraction.cs" />
     <Compile Include="Assets\DIalogueScripts\DialogueManager.cs" />
     <Compile Include="Assets\InventoryScripts\Equipment.cs" />
